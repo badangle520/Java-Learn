@@ -13,5 +13,14 @@ public class c020_CharDetail{
 		char c3 = '余';
 		System.out.println((int)c3);
 
+		char c4 = 20313;
+		System.out.println(c4);
+
+		System.out.println( 'a' + 10 );
+
+		//课堂小测试
+		char c5 = 'b' + 1;
+		System.out.println((int)c5);	//99
+		System.out.println(c5);			//c
 	}
 }
