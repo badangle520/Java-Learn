@@ -17,6 +17,16 @@ public class c047_TernaryOperatorExercise{
 		int max3 = (a > b ? a : b) > c ? (a > b ? a : b) : c;
 		System.out.println(max3);
 
+		int abcclass  = 10;
+		int n = 40;
+		int N = 50;
+		System.out.println(n);	//	40
+		System.out.println(N);	//	50
+
+		int abc = 100;
+		int aBc = 200;
+		System.out.println(abc);	//	100
+		System.out.println(aBc);	//	200
 	}
 
 }
